@@ -1,0 +1,11 @@
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/bin/Debug/netcoreapp2.2/exceptions.deps.json
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/bin/Debug/netcoreapp2.2/exceptions.runtimeconfig.json
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/bin/Debug/netcoreapp2.2/exceptions.runtimeconfig.dev.json
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/bin/Debug/netcoreapp2.2/exceptions.dll
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/bin/Debug/netcoreapp2.2/exceptions.pdb
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/obj/Debug/netcoreapp2.2/exceptions.csprojAssemblyReference.cache
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/obj/Debug/netcoreapp2.2/exceptions.csproj.CoreCompileInputs.cache
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/obj/Debug/netcoreapp2.2/exceptions.AssemblyInfoInputs.cache
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/obj/Debug/netcoreapp2.2/exceptions.AssemblyInfo.cs
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/obj/Debug/netcoreapp2.2/exceptions.dll
+/Users/russellreiter/Workspace/csharp/exercises/exceptions/obj/Debug/netcoreapp2.2/exceptions.pdb
