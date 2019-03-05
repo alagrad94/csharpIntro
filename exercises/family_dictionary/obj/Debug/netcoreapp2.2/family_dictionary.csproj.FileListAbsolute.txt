@@ -1,0 +1,11 @@
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.2/family_dictionary.deps.json
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.2/family_dictionary.runtimeconfig.json
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.2/family_dictionary.runtimeconfig.dev.json
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.2/family_dictionary.dll
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.2/family_dictionary.pdb
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.2/family_dictionary.csprojAssemblyReference.cache
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.2/family_dictionary.csproj.CoreCompileInputs.cache
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.2/family_dictionary.AssemblyInfoInputs.cache
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.2/family_dictionary.AssemblyInfo.cs
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.2/family_dictionary.dll
+/Users/russellreiter/Workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.2/family_dictionary.pdb
