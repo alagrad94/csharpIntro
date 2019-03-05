@@ -1,0 +1,11 @@
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/bin/Debug/netcoreapp2.2/nickelback.deps.json
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/bin/Debug/netcoreapp2.2/nickelback.runtimeconfig.json
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/bin/Debug/netcoreapp2.2/nickelback.runtimeconfig.dev.json
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/bin/Debug/netcoreapp2.2/nickelback.dll
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/bin/Debug/netcoreapp2.2/nickelback.pdb
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/obj/Debug/netcoreapp2.2/nickelback.csprojAssemblyReference.cache
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/obj/Debug/netcoreapp2.2/nickelback.csproj.CoreCompileInputs.cache
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/obj/Debug/netcoreapp2.2/nickelback.AssemblyInfoInputs.cache
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/obj/Debug/netcoreapp2.2/nickelback.AssemblyInfo.cs
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/obj/Debug/netcoreapp2.2/nickelback.dll
+/Users/russellreiter/Workspace/csharp/exercises/nickelback/obj/Debug/netcoreapp2.2/nickelback.pdb
